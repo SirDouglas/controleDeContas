@@ -7,10 +7,7 @@ package javaapplication2;
 
 import java.util.Calendar;
 
-/**
- *
- * @author tiago
- */
+
 public class Conta {
 private Long idPagamento;
 private String nomePagamento;
