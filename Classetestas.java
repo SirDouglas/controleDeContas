@@ -10,10 +10,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.List;
 
-/**
- *
- * @author tiago
- */
+
 public class Classetestas {
     public void testaInsere() {
    
