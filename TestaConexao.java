@@ -10,10 +10,7 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author tiago
- */
+
 public class TestaConexao {
     public void testar  () {
         Connection conexao = new ConnectionFactory().getConnection();
