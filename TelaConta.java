@@ -24,10 +24,7 @@ import javax.swing.JTextField;
    
 
 
-/**
- *
- * @author tiago
- */
+
 public class TelaConta  extends JFrame{
     
     private JLabel texto;
