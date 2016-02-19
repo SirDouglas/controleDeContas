@@ -5,10 +5,7 @@
  */
 package javaapplication2;
 
-/**
- *
- * @author tiago
- */
+
 class List<T> {
     
 }
