@@ -12,10 +12,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-/**
- *
- * @author tiago
- */
+
 public class CategoriaDao {
       private Connection connection;
 
