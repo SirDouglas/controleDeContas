@@ -13,10 +13,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-/**
- *
- * @author tiago
- */
+
 public class GanhoDao {
     private final Connection connection;
 
