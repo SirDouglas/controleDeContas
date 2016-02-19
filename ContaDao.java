@@ -14,10 +14,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-/**
- *
- * @author tiago
- */
+
 public class ContaDao {
     private final Connection connection;
 
