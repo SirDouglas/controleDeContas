@@ -7,10 +7,7 @@ package javaapplication2;
 
 import javax.swing.JFrame;
 
-/**
- *
- * @author tiago
- */
+
 public class ConstroeTelas {
     public void adicionaConta() {
         TelaConta tela1 = new TelaConta();
